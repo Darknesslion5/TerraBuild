@@ -1,14 +1,15 @@
 # TerraBuild
 
-My first C++ game and a Terraria-like game!
+My first C++ game and a Terraria-like game from scratch!
 
-%% [](pic) %%
+<img width="1536" height="1024" alt="Grassy pixel island with crystal pickaxe" src="https://github.com/user-attachments/assets/eb421522-bfd3-4a87-90e5-c99a978db329" />
 
 # Reasons
 Lead my understanding of C++ towards creating actuall desktop applications, especially games:
-- Learning CMake
-- Learning Raylib
-- Learning OpenGL
+- CMake
+- Raylib
+- OpenGL
+- Game logic
 
 Features & TODOs:
 - [ ] World generation
