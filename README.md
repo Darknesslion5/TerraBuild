@@ -1,6 +1,6 @@
 # TerraBuild
 
-My first C++ game and a Terraria-like game from scratch!
+My first C++ coded and Terraria-like game from scratch!
 
 <img width="1536" height="1024" alt="Grassy pixel island with crystal pickaxe" src="https://github.com/user-attachments/assets/eb421522-bfd3-4a87-90e5-c99a978db329" />
 
