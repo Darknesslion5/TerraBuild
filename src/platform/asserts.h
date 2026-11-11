@@ -40,10 +40,10 @@ void assertFuncInternal(
 #endif
 
 #if DEVELOPLEMT_BUILD == 1
-#define permaAssertDevelopement permaAssert
-#define permaAssertCommentDevelopement permaAssertComment
+#define permaAssertDevelopment permaAssert
+#define permaAssertCommentDevelopment permaAssertComment
 
 #else
-#define permaAssertDevelopement
-#define permaAssertCommentDevelopement
+#define permaAssertDevelopment
+#define permaAssertCommentDevelopment
 #endif
